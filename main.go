@@ -24,5 +24,11 @@ func main() {
 
 	// pointerDemo()
 
-	structsDemo()
+	//structsDemo()
+	//methodDemo()
+
+	r := rect1{4, 5}
+	c := circle{7.69}
+	measure(r)
+	measure(c)
 }
