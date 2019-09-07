@@ -22,5 +22,7 @@ func main() {
 	// fact := fact(9)
 	// fmt.Println(fact)
 
-	pointerDemo()
+	// pointerDemo()
+
+	structsDemo()
 }
