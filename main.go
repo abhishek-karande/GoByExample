@@ -27,8 +27,14 @@ func main() {
 	//structsDemo()
 	//methodDemo()
 
-	r := rect1{4, 5}
-	c := circle{7.69}
-	measure(r)
-	measure(c)
+	// r := rect1{4, 5}
+	// c := circle{7.69}
+	// measure(r)
+	// measure(c)
+
+	//ErrorsDemo()
+
+	//goRoutinesDemo()
+
+	channelDemo()
 }
